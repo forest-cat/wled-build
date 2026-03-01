@@ -2,8 +2,11 @@
 
 ## Hardware
 The clock consists of two addressable LED strips and a microcontroller:
+
 Clock: 65 pixels WS2812B, GPIO3
+
 Other lights: 540? pixels WS2812B, GPIO2
+
 Controller: ESP32-C3 SuperMini
 
 ## Software
